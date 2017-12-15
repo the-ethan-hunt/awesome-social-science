@@ -35,6 +35,7 @@ Please read the [Contributing Guidelines](./contributing.md) before contributing
   - [Trichotillomania](#trichotillomania)
   - [Schizophrenia](#schizophrenia)
   - [Borderline Personality Disorder](#borderline-personality-disorder-bpd)
+  - [Prosopagnosia](#prosopagnosia)
 
 ## Aphorisms / Adages / Epigrams
 
@@ -415,6 +416,19 @@ Therapy.
 [R: National Institute of Mental Health](https://www.nimh.nih.gov/health/topics/borderline-personality-disorder/index.shtml)
 
 [R: psycom.net](https://www.psycom.net/depression.central.borderline.html)
+
+#### [Prosopagnosia](https://en.wikipedia.org/wiki/Prosopagnosia)
+
+> A cognitive disorder that impairs the patient's recognition of familiar faces
+
+Often, caused by lesions in the brain's occipital areas or due to Alzheimer's 
+disease. There has been no treatment methods discovered as of now. It can be
+diagnosed by several facial recognition tests namely the Prosopagnosia
+Index(PI20).
+
+[R: National Health Service](https://www.nhs.uk/conditions/face-blindness/)
+
+[R: National Institute of Neurological Disorders and Stroke](https://www.ninds.nih.gov/Disorders/All-Disorders/Prosopagnosia-Information-Page) 
 
 ***
 
